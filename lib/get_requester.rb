@@ -16,7 +16,7 @@ class GetRequester
   end
   
   def parse_json
-    e = JSON.parse
+    e = JSON.parse(self.)
   end
   
 end
