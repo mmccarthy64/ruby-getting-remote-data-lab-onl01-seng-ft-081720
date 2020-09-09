@@ -1,4 +1,8 @@
 # Write your code here
+require 'json'
+require 'open-uri'
+require
+
 class GetRequester
   
   def initialize (url)
