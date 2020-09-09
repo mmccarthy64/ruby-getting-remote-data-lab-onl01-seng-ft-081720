@@ -19,6 +19,7 @@ class GetRequester
     e = JSON.parse(self.get_response_body)
     e.collect do |name|
       name["occupation"]
+    end
   end
   
 end
