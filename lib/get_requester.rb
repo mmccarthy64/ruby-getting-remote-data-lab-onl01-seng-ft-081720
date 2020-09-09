@@ -13,4 +13,8 @@ class GetRequester
     
   end
   
+  def parse_json
+    
+  end
+  
 end
